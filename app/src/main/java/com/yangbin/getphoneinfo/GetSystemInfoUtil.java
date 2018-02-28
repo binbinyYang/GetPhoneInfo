@@ -110,7 +110,7 @@ public class GetSystemInfoUtil {
 
 
     /**
-     * Flyme 说 5.0 6.0统一使用这个获取IMEI IMEI2 MEID
+     *  5.0 6.0统一使用这个获取IMEI IMEI2 MEID
      *
      * @param ctx
      * @return
