@@ -12,3 +12,6 @@
 
 ![魅族pro6手机展示结果图](http://m.qpic.cn/psb?/4ce3b0e3-a39d-46c8-9241-782be9fb45d1/Z280nLHPIZvhfmxA7f7FxUNC0F7d48FMVof7f8ySAGU!/b/dGcBAAAAAAAA&bo=gAJxBAAAAAARB8c!&rf=viewer_4)
 
+我的技术博客
+https://blog.csdn.net/yangbin0513/article/details/68490291 
+详细内容在博客里面
